@@ -3,7 +3,7 @@
 Using PyTorch, the following project implements a deep neural network for predicting the class of input images based on [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset. The dataset has 10 classes including: ‘airplane’, ‘automobile’, ‘bird’, ‘cat’, ‘deer’, ‘dog’, ‘frog’, ‘horse’, ‘ship’, ‘truck’. All images are 3-channel color images of 32x32 pixels. The image below, taken from [PyTorch website](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html), shows 10 sample images from each class. 
 
 
-<img src="images/cifar10.png" alt="cifar10-sample" style="zoom:100%;" />
+<img src="images/cifar10.png" alt="cifar10-sample" width="100%" />
 
 
 Final accuracy is around 88%. 
@@ -16,11 +16,11 @@ Final accuracy is around 88%.
 
 Model Accuray | Model Loss 
 :--------:|:-------:
-<img src="images/cifar10-Accuracy.png" alt="Accuracy" style="zoom:10%;" />|<img src="images/cifar10-Loss.png" alt="Loss" style="zoom:10%;" />
+<img src="images/cifar10-Accuracy.png" alt="Accuracy"/>|<img src="images/cifar10-Loss.png" alt="Loss"/>
 
 #### Confusion Matrix 
 
-<img src="images/cifar10-ConfusionMatrix.png" alt="Confusion Matrix" style="zoom:15%;" />
+<img src="images/cifar10-ConfusionMatrix.png" alt="Confusion Matrix" width="70%" />
 
 As it is obvious, the most confused ones are `cat` and `dog` images. 
 
