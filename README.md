@@ -5,6 +5,7 @@ Using PyTorch, the following project implements a deep neural network for predic
 
 <img src="images/cifar10.png" alt="cifar10-sample" style="zoom:100%;" />
 
+
 Final accuracy is around 88%. 
 
 ### Model Architecture (Deep Net)
@@ -23,11 +24,10 @@ Model Accuray | Model Loss
 
 As it is obvious, the most confused ones are `cat` and `dog` images. 
 
-### Requirements.
+### Requirements
 
-[PyTorch](https://github.com/pytorch/pytorch)
-
-[torchvision](https://github.com/pytorch/vision)
+* [PyTorch](https://github.com/pytorch/pytorch)
+* [torchvision](https://github.com/pytorch/vision)
 
 ### TODO
 
