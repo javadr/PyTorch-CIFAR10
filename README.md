@@ -24,6 +24,11 @@ Model Accuray | Model Loss
 
 As it is obvious, the most confused ones are `cat` and `dog` images. 
 
+### Misclassification Samples
+
+<img src="images/misclass.png" alt="MisClassification" width="70%" />
+
+
 ### Requirements
 
 * [PyTorch](https://github.com/pytorch/pytorch)
@@ -34,7 +39,7 @@ As it is obvious, the most confused ones are `cat` and `dog` images.
 1. [ ] Train the model with Data Augmentation
 2. [ ] Applying the Half Precision mechanism
 3. [ ] Redesigning the Model  to get better results
-4. [ ] Showing some images from misclassification 
+4. ~~[X] Showing some images from misclassification~~
 
 #### Contents
 
