@@ -39,7 +39,7 @@ As it is obvious, the most confused ones are `cat` and `dog` images.
 1. [ ] Train the model with Data Augmentation
 2. [ ] Applying the Half Precision mechanism
 3. [ ] Redesigning the Model  to get better results
-4. ~~[X] Showing some images from misclassification~~
+4. [X] Showing some images from misclassification
 
 #### Contents
 
