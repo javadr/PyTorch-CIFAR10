@@ -22,7 +22,7 @@ Model Accuray | Model Loss
 
 <img src="images/cifar10-ConfusionMatrix.png" alt="Confusion Matrix" width="70%" />
 
-As it is obvious, the most confused ones are `cat` and `dog` images. 
+Although the most misclassified classes are `bird` and `cat`, as it is obvious, the most confused ones with each other are `cat` and `dog` images. 
 
 ### Misclassification Samples
 
